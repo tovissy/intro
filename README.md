@@ -2,9 +2,9 @@
 
 Rules:
 
-* Have fun with code
-* Build something great
+* Always have fun with code
+* Keep building something great
 
-[AsWeThink.com][aswethink]
+**Chief Visionary & Founder @ [AsWeThink.com][aswethink]**
 
 [aswethink]: http://aswethink.com
