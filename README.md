@@ -1,11 +1,9 @@
-# Title
+# Ooh, hi there 👋
 
-## Subtitle
+Rules:
 
-Lorem ipsum dolorem
-
-* List item
-* List item 2
+* Have fun with code
+* Build something great
 
 [AsWeThink.com][aswethink]
 
