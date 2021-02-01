@@ -1,9 +1,9 @@
 # Ooh, hi there 👋
 
-Rules:
+Some rules:
 
 * Always have fun with code
-* Keep building something great
+* Keep building great stuff
 
 **Chief Visionary & Founder @ [AsWeThink.com][aswethink]**
 
